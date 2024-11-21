@@ -38,11 +38,11 @@ Le fichier `main.tf` contient :
    terraform init
 
 2. Vérifier ce qui va être déployer :
-  ```bash
-  terraform pla
-  ```
+   ```bash
+   terraform plan
+   ```
 
 3. Appliquer la configuration sur AWS :
-  ```bash
-  terraform apply
-  ```
+   ```bash
+   terraform apply
+   ```
